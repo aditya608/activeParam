@@ -1,5 +1,5 @@
 #!groovy
-@Library("activeParam@main") _
+@Library("pipeline@main") _
 Pipeline {
     name= "active parameter test"
 }
