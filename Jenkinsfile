@@ -2,11 +2,7 @@
 
     pipeline {
 
-        agent {
-            node {
-                label 'DotNetCore'
-            }
-        }
+        agent any
 
         
      parameters {
