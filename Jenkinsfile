@@ -1,5 +1,3 @@
-#!groovy
-@Library("Jenkins_Library@2.0.0") _
 
 
     pipeline {
